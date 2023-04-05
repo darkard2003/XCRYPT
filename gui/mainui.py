@@ -49,7 +49,7 @@ class Ui_MainWindow(object):
 
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
-        MainWindow.setWindowTitle(_translate("MainWindow", "file Guard"))
+        MainWindow.setWindowTitle(_translate("MainWindow", "XCRYPTOR"))
         self.passwordInput.setPlaceholderText(_translate("MainWindow", "Password"))
         self.encryptButton.setText(_translate("MainWindow", "Encrypt"))
         self.decryptButton.setText(_translate("MainWindow", "Decrypt"))
