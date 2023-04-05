@@ -1,4 +1,4 @@
-# XCRYPT
+# XCRYPTOR
 File encryption for portable devices
 
 ## Usage
